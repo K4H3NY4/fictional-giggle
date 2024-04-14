@@ -3056,7 +3056,7 @@ body.sticky-active .popito_fn_stickynav{
     display: -o-flex;
     display: flex;
     margin: 0;
-    padding: 16px;
+    padding: 0px;
     width: calc(100% - 5px);
 	-webkit-flex-direction: column;
 	-moz-flex-direction: column;
